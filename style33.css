@@ -1,0 +1,132 @@
+#menu7 ul {
+    list-style-type: none;
+}
+
+ul {
+    padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+#menu7 .l1 a:link,
+#menu7 .l1 a:visited {
+    background: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/1.png);
+    background-image: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/1.png);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+#menu7 .l2 a:link,
+#menu7 .l2 a:visited {
+    background: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/2.png) no-repeat top center;
+    background-image: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/2.png);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+#menu7 .l3 a:link,
+#menu7 .l3 a:visited {
+    background: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/3.png) no-repeat top center;
+    background-image: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/3.png);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+#menu7 .l4 a:link,
+#menu7 .l4 a:visited {
+    background: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/4.png) no-repeat top center;
+    background-image: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/4.png);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+#menu7 .l5 a:link,
+#menu7 .l5 a:visited {
+    background: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/5.png) no-repeat top center;
+    background-image: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/img/5.png);
+    background-position-x: center;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+#menu7 a:link,
+#menu7 a:visited {
+    color: #CBCBCB;
+    text-decoration: none;
+}
+
+#menu7 a {
+    padding-top: 30px;
+    display: block;
+}
+
+#menu7 li {
+    margin-right: 13px;
+    display: inline-block;
+}
+
+#menu7 a:link,
+#menu7 a:visited {
+    color: #CBCBCB;
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+#menu7 a {
+    padding-top: 30px;
+    display: block;
+}
